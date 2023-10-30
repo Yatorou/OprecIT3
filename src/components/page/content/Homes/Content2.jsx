@@ -1,5 +1,5 @@
 import React from "react";
-import Reja from "../../../assets/Ketumomagat.png";
+import Reja from "../../assets/Ketumomagat.png";
 
 export default function Content2() {
   return (

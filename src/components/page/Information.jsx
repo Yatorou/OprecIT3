@@ -1,7 +1,7 @@
 import React from "react";
-import Content1 from '../content/Information/Content1'
-import Content2 from "../content/Information/Content2";
-import Content3 from "../content/Information/Content3";
+import Content1 from "./content/Information/Content1";
+import Content2 from "./content/Information/Content2";
+import Content3 from "./content/Information/Content3";
 export default function Information() {
   return (
     <div className=" bg-base-100 h-full w-full rounded-md carousel">

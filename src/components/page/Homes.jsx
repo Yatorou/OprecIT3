@@ -1,9 +1,9 @@
 import React from "react";
-import Content1 from "../content/Homes/content1";
-import Content2 from "../content/Homes/content2";
-import Content3 from "../content/Homes/Content3";
-import Content4 from "../content/Homes/Content4";
-import Content5 from "../content/Homes/Content5";
+import Content1 from "./content/Homes/content1";
+import Content2 from "./content/Homes/content2";
+import Content3 from "./content/Homes/Content3";
+import Content4 from "./content/Homes/Content4";
+import Content5 from "./content/Homes/Content5";
 export default function Homes() {
   return (
     <div className="w-full h-full carousel rounded-box overflow-x-hidden ">
