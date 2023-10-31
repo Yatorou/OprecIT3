@@ -3,7 +3,6 @@ import Navbar from "./components/layout/Navbar";
 import Content from "./components/layout/Content";
 import BottomNavbar from "./components/layout/BottomNavbar";
 export default function App() {
-  
   const [content, setContent] = useState("home");
   const handleNavClick = (page) => {
     setContent(page);
